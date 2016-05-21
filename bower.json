@@ -1,0 +1,20 @@
+{
+  "name": "ng2-test",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jonathon Kosla <jonathonkosla@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
